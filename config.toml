@@ -1,0 +1,48 @@
+baseurl = "/"
+title = "si-moto"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  title = "Former motocross"
+  description = 'Motocross action about 35 years ago'
+
+# logo = "fa-motorcycle"
+logoimage = "/images/MotoCross9Logo.png"
+  
+copyright = "2017 www.si-home-de"
+ 
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/si-home/si-moto"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Former motocross pictures"
+
+[languages.de]
+languageName = "Deutsch"
+weight = 2
+title = "Motocross Bilder von früher"
+description = 'Motocross action vor etwa 35 Jahren'
