@@ -1,13 +1,18 @@
 +++
 weight = 10
 date = "2017-03-02T10:54:38-05:00"
-title = "Einführung"
+title = "Inhalt"
 draft = false
-menuname = "Infos"
+menuname = "Inhalt"
 
 +++
 
-{{< figure class="image main" src="/images/pic01.jpg" >}}
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my [awesome work](#work).
+<!-- {{< figure class="image main" src="/images/pic01.jpg" >}} -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<img src="/images/MotoCross/MotoCross02_teaser1.jpg" width="560" height="156" alt="MotoCross02">  
+
+Bilder von Moto-Cross-Rennen aus den Achtziger Jahren  
+in Mosbach und Schefflenz bei Heidelberg.
+
+### [Fotos ](#moto) <i class="fa fa-arrow-right" aria-hidden="true"></i></i>
+#### [Startseite ](#) <i class="fa fa-arrow-up" aria-hidden="true"></i>

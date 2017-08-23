@@ -1,10 +1,10 @@
 +++
 weight = 30
 date = "2017-03-02T10:54:38-05:00"
-title = "Motocross Teil 2"
+title = "Motocross Teil 3"
 draft = false
-menuname = "Moto1"
-link = "#moto1"
+menuname = "Moto2"
+link = "#moto2"
 
 +++
 
@@ -17,5 +17,4 @@ link = "#moto1"
 <img src="/images/MotoCross/MotoCross03.jpg" width="420" height="560" alt="MotoCross01">  
 <img src="/images/MotoCross/MotoCross04.jpg" width="560" height="420" alt="MotoCross01">  
 ***
-### [Weitere Fotos ](#moto2) <i class="fa fa-arrow-right" aria-hidden="true"></i></i>
 #### [Startseite ](#) <i class="fa fa-arrow-up" aria-hidden="true"></i>

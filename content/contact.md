@@ -2,7 +2,7 @@
 title = "Contact"
 menuname = "Contact"
 weight = 40
-draft = true
+draft = false
 +++
 
 <form method="post" action="#">

@@ -2,7 +2,7 @@
 title = "Favorites"
 weight = 15
 menuname = "<Fav>"
-draft = false
+draft = true
 +++
 
 {{< figure class="image main" src="/images/pic01.jpg" >}}

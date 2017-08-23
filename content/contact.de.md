@@ -1,10 +1,12 @@
 +++
 date = "2017-03-02T11:59:27-05:00"
 title = "Kontakt"
-weight = 40
-draft = true
+weight = 70
+draft = false
 
 +++
+<img src="/images/MotoCross/MotoCross02_teaser1.jpg" width="560" height="156" alt="MotoCross02">  
+
 
 <form method="post" action="#">
     <div class="field half first">
@@ -24,3 +26,5 @@ draft = true
         <li><input type="reset" value="Zurücksetzen" /></li>
     </ul>
 </form>
+
+#### [Startseite ](#) <i class="fa fa-arrow-up" aria-hidden="true"></i>

@@ -2,7 +2,7 @@
 title = "Formspree Contact"
 weight = 60
 menuname = "Contact"
-draft = false
+draft = true
 +++
 
 <form id="contactform" method="post" action="https://formspree.io/codat@gmx.de">
