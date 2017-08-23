@@ -5,8 +5,14 @@ weight = 70
 draft = false
 
 +++
-<img src="/images/MotoCross/MotoCross02_teaser1.jpg" width="560" height="156" alt="MotoCross02">  
+### <img src="/images/MotoCross/MotoCross02_teaser1mini.jpg" width="560" height="44" alt="MotoCross02">  
 
+### <img src="/images/MotoCross/MotoCross04teaserMini.jpg" width="560" alt="MotoCross02">  
+
+### <img src="/images/MotoCross/MotoCross36teaserMini.jpg" width="560" alt="MotoCross02">  
+
+### Schreiben Sie mir etwas
+##### <br>
 
 <form method="post" action="#">
     <div class="field half first">

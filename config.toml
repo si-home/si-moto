@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 
 [params]
   title = "Former motocross"
-  description = 'Motocross action about 35 years ago'
+  description = 'Motocross in the 80s'
 
 # logo = "fa-motorcycle"
 logoimage = "/images/MotoCross9Logo.png"
@@ -45,4 +45,4 @@ title = "Former motocross pictures"
 languageName = "Deutsch"
 weight = 2
 title = "Motocross Bilder von früher"
-description = 'Motocross action vor etwa 35 Jahren'
+description = 'Motocross aus den Achtziger Jahren'

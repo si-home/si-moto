@@ -1,9 +1,13 @@
 +++
 title = "Contact"
 menuname = "Contact"
-weight = 40
+weight = 70
 draft = false
 +++
+
+### <img src="/images/MotoCross/MotoCross02_teaser1mini.jpg" width="560" height="44" alt="MotoCross02">  
+### Please write me something
+##### <br>
 
 <form method="post" action="#">
 	<div class="field half first">
@@ -23,3 +27,5 @@ draft = false
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
+
+#### [Start ](#) <i class="fa fa-arrow-up" aria-hidden="true"></i>

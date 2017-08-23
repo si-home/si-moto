@@ -13,7 +13,7 @@ menuname = "Favoriten"
 
 <!-- <img src="/images/pic03.jpg" width="560" height="200" alt="Bild 3"> -->
 
-<img src="/images/MotoCross/MotoCross01.jpg" width="560" height="420" alt="MotoCross01">
+<img src="/images/MotoCross/MotoCross01.jpg" width="560" height="420" alt="MotoCross">
 Motocross in Mosbach-Bergfeld  
 
 ***

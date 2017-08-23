@@ -14,7 +14,7 @@ menuname = "Über mich"
 <br>
 <!-- #### [Meine Kamera](https://commons.wikimedia.org/wiki/File%3ACanon_T90_1_2_50mm.jpg width="565" alt="MotoCross02") -->
 ### Meine Kamera
-#### Die Aufnahmen wurden mit der Canon T90 Kamera mit 1:2,8 125 mm Objektiv. Film Kodak ISO 400, selbst entwickelt auf Ilford-Papier. 
+#### Die Aufnahmen wurden mit der Canon T90 Kamera mit 1:2,8 125 mm Objektiv. Film Ilford ISO 400, selbst entwickelt auf Ilford-Papier. 
 
 {{< figure class="image main" src="/images/Canon_T90.jpg" >}}
 

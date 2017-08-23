@@ -1,14 +1,17 @@
 +++
-title = "Intro"
-weight = 10
 draft = false
+weight = 10
+date = "2017-08-23"
+title = "Content"
+menuname = "Content"
 +++
 
-
-<-- {{< figure class="image main" src="/images/pic01.jpg" >}} -->
+<!-- {{< figure class="image main" src="/images/pic01.jpg" >}} -->
 
 <img src="/images/MotoCross/MotoCross02_teaser1.jpg" width="560" height="156" alt="MotoCross02">  
 
-Aaaenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my [awesome work](#work).
+Pictures of motocross racing in the 1980s 
+in Mosbach and Schefflenz near Heidelberg.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+## [Photos ](#moto) <i class="fa fa-arrow-right" aria-hidden="true"></i></i>
+#### [Start ](#) <i class="fa fa-arrow-up" aria-hidden="true"></i>

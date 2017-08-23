@@ -1,17 +1,25 @@
 +++
-title = "Moto-Cross"
-weight = 15
+weight = 30
+date = "2017-03-02T10:54:38-05:00"
+title = "Motocross Part 3"
 draft = false
-menuname = "Moto1"
-link = "#moto1"
+menuname = "Cross 3"
+link = "#moto2"
+
 +++
 
-{{< figure class="image main" src="/images/pic01.jpg" >}}
+<img src="/images/MotoCross/MotoCross02_teaser1.jpg" width="560" height="156" alt="MotoCross02">  
 
-
-English
-
-
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my [awesome work](#work).
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+### Motocross in Mosbach and Schefflenz. 
+---  
+<img src="/images/MotoCross/MotoCross17.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross18.jpg" width="420" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross19.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross22.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross23.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross24.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross25.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross26.jpg" width="560" alt="MotoCross">  
+***
+### [more Photos ](#moto3) <i class="fa fa-arrow-right" aria-hidden="true"></i></i>
+#### [Start ](#) <i class="fa fa-arrow-up" aria-hidden="true"></i>

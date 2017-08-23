@@ -1,17 +1,26 @@
 +++
-title = "Moto-Cross"
-weight = 15
+weight = 30
+date = "2017-03-02T10:54:38-05:00"
+title = "Motocross Part 2"
 draft = false
-menuname = "Moto1"
+menuname = "Cross 2"
 link = "#moto1"
+
 +++
 
-{{< figure class="image main" src="/images/pic01.jpg" >}}
+<img src="/images/MotoCross/MotoCross02_teaser1.jpg" width="560" height="156" alt="MotoCross02">
 
+### Motocross in Mosbach and Schefflenz. 
+---  
+<img src="/images/MotoCross/MotoCross09.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross10.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross11.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross12.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross13.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross14.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross15.jpg" width="560" alt="MotoCross">  
+<img src="/images/MotoCross/MotoCross16.jpg" width="560" alt="MotoCross">  
 
-English
-
-
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my [awesome work](#work).
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+***
+### [more Photos ](#moto2) <i class="fa fa-arrow-right" aria-hidden="true"></i></i>
+#### [Start ](#) <i class="fa fa-arrow-up" aria-hidden="true"></i>

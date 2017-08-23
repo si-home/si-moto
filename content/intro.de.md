@@ -1,10 +1,9 @@
 +++
-weight = 10
-date = "2017-03-02T10:54:38-05:00"
-title = "Inhalt"
 draft = false
+weight = 10
+date = "2017-08-23"
+title = "Inhalt"
 menuname = "Inhalt"
-
 +++
 
 <!-- {{< figure class="image main" src="/images/pic01.jpg" >}} -->
@@ -14,5 +13,5 @@ menuname = "Inhalt"
 Bilder von Moto-Cross-Rennen aus den Achtziger Jahren  
 in Mosbach und Schefflenz bei Heidelberg.
 
-### [Fotos ](#moto) <i class="fa fa-arrow-right" aria-hidden="true"></i></i>
+## [zu den Fotos ](#moto) <i class="fa fa-arrow-right" aria-hidden="true"></i></i>
 #### [Startseite ](#) <i class="fa fa-arrow-up" aria-hidden="true"></i>
