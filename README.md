@@ -3,7 +3,7 @@
 #### Pictures of motocross racing in the 1980s   
 #### in Mosbach and Schefflenz near Heidelberg.  
 
-### [German-Version included](https://moto.s-fam.de/de/)
+#### [Deutsche Version](https://moto.s-fam.de/de/)
 #### Bilder von Moto-Cross-Rennen aus den Achtziger Jahren  
 #### in Mosbach und Schefflenz bei Heidelberg.
 
