@@ -1,16 +1,14 @@
-﻿### moto.s.fam.de
-
-[https://moto.s-fam.de]
-
-[The Motocross Homepage](https://github.com/si-home/si-moto/blob/master/static/images/CROP0012moto.jpg)
-
-Test 2
-[The Motocross Homepage 2](../static/images/CROP0012moto.jpg)
+﻿### moto.s.fam.de [https://moto.s-fam.de]
 
 Pictures of motocross racing in the 1980s   
 in Mosbach and Schefflenz near Heidelberg.  
 
+[German-Version included](https://moto.s-fam.de/de/)
 Bilder von Moto-Cross-Rennen aus den Achtziger Jahren  
 in Mosbach und Schefflenz bei Heidelberg.
 
-<img src="/images/MotoCross/MotoCross02_teaser1.jpg" width="560" height="156" alt="MotoCross02">  
+![The Motocross Homepage](https://github.com/si-home/si-moto/blob/master/static/images/Titelbild_en.jpg)
+
+Test 2
+![The Bikes](https://github.com/si-home/si-moto/blob/master/static/images/MotoCross02_teaser1.jpg)
+
