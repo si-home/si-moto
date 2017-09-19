@@ -5,6 +5,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+googleAnalytics = "UA-1167741-5"
 
 [params]
   title = "Former motocross"
